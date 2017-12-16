@@ -1,0 +1,18 @@
+.as-calculator{
+    width: 250px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: aliceblue;
+    padding: 20px;
+    border: 1px solid black;
+}
+.as-calculator .result-block{
+    width: 100px;
+    height: 30px;
+    margin: 5px;    
+}
+.as-calculator .block button{
+ width: 40px;
+ height: 40px;
+ margin: 5px;
+}
